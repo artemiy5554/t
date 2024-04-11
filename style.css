@@ -1,0 +1,52 @@
+.container {
+  position: relative;
+}
+
+.image3 {
+    width: 900px;
+    height: 275px;
+    margin-left: 200px;
+}
+
+.image1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image4 {
+      width: 575px;
+  height: 475px;
+margin-top: 75px;
+margin-left: 50px;
+}
+
+.color {
+    display: block;
+    float: left;
+    margin-top: 300px;
+    height: 150px;
+    width: 200px;
+    margin-right: 1px;
+}
+
+.color2 {
+             display:block;
+         position:absolute;
+             float: left;
+    margin-top: 310px;
+        margin-right: 10px;
+        margin-left: 50px;
+        color: white;
+        font-size: 23px;
+}
+
+body {
+  background-color: LightGray;
+}
